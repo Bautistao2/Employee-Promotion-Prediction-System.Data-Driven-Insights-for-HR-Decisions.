@@ -110,7 +110,7 @@ EDA-and-predictor-for-Employee-Eligible-for-Promotion/
 
 4. **Train the model:**
    ```bash
-   python models/model_py
+   python models/model.py
    ```
 
 5. **Make predictions:**
